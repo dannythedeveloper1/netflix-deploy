@@ -34,10 +34,11 @@ const Row = ({ title, fetchUrl, isLargeRow }) => {
 					const urlParams = new URLSearchParams(new URL(url).search)
 					// console.log(urlParams)
 					setTrailerUrl(urlParams.get('v'));
-					// console.log(trailerUrl)
+					
 			})
 		}
 	}
+	console.log(trailerUrl);
 	return (
 		<div className="row">
 			<h1>{title}</h1>

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netflix-deploy/static/css/main.6274b568.css",
+    "main.js": "/netflix-deploy/static/js/main.a2f4f248.js",
+    "index.html": "/netflix-deploy/index.html",
+    "main.6274b568.css.map": "/netflix-deploy/static/css/main.6274b568.css.map",
+    "main.a2f4f248.js.map": "/netflix-deploy/static/js/main.a2f4f248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6274b568.css",
+    "static/js/main.a2f4f248.js"
+  ]
+}
